@@ -2,7 +2,7 @@
 > **About**
 > * Study at Computer Science and Information: CIS, Khon Kaen University Nong Khai Campus, Thailand (633410142-5)
 
-> **Problem (935306-AI2022_Assistant Professor Dr. Noppakun Boonsim.)**
+> **Problem (Reference from 935306-AI2022_Assistant Professor Dr. Noppakun Boonsim.)**
 ![Problem](https://user-images.githubusercontent.com/76491614/212806109-2092b260-bce7-47c3-a7a6-0eaf8317edab.png)
 > **ShortestPath**
 ![ShortestPath2](https://user-images.githubusercontent.com/76491614/212806078-378d78a1-2dd0-4e51-88ef-f266a6101de0.png)
